@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Piyush-Kumar-Singh/static/css/main.ba2149d2.css",
-    "main.js": "/Piyush-Kumar-Singh/static/js/main.8b7825ff.js",
+    "main.js": "/Piyush-Kumar-Singh/static/js/main.82600027.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
     "static/media/Piyush_kumar_singh_Resume.pdf": "/Piyush-Kumar-Singh/static/media/Piyush_kumar_singh_Resume.8ede1194574effd59a33.pdf",
     "static/media/Acumin-RPro.otf": "/Piyush-Kumar-Singh/static/media/Acumin-RPro.0ff8c5d6797bc06270d7.otf",
@@ -12,11 +12,11 @@
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
     "main.ba2149d2.css.map": "/Piyush-Kumar-Singh/static/css/main.ba2149d2.css.map",
-    "main.8b7825ff.js.map": "/Piyush-Kumar-Singh/static/js/main.8b7825ff.js.map",
+    "main.82600027.js.map": "/Piyush-Kumar-Singh/static/js/main.82600027.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba2149d2.css",
-    "static/js/main.8b7825ff.js"
+    "static/js/main.82600027.js"
   ]
 }
