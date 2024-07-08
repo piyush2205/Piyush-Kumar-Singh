@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Piyush-Kumar-Singh/static/css/main.c18f09a4.css",
-    "main.js": "/Piyush-Kumar-Singh/static/js/main.8254d79a.js",
+    "main.js": "/Piyush-Kumar-Singh/static/js/main.ba052b21.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
-    "static/media/fooddostmockup-2.png": "/Piyush-Kumar-Singh/static/media/fooddostmockup-2.7fd17da1e1de5815078d.png",
-    "static/media/Fooddost-mockup1.png": "/Piyush-Kumar-Singh/static/media/Fooddost-mockup1.d33c25d44b3c561a2300.png",
-    "static/media/Piyush_kumar_singh_Resume.pdf": "/Piyush-Kumar-Singh/static/media/Piyush_kumar_singh_Resume.4f6abb225dcebc461569.pdf",
+    "static/media/fooddost-mockup-desktop.png": "/Piyush-Kumar-Singh/static/media/fooddost-mockup-desktop.65400b46aba634301ebc.png",
+    "static/media/fooddostmockup-phone.png": "/Piyush-Kumar-Singh/static/media/fooddostmockup-phone.d55a8c42a4c901a6491d.png",
     "static/media/Acumin-RPro.otf": "/Piyush-Kumar-Singh/static/media/Acumin-RPro.0ff8c5d6797bc06270d7.otf",
     "static/media/Degular-Medium.otf": "/Piyush-Kumar-Singh/static/media/Degular-Medium.89ca1f07b5d194ca90f7.otf",
     "static/media/Degular-Light.otf": "/Piyush-Kumar-Singh/static/media/Degular-Light.ed3eb8622927d7abbc51.otf",
+    "static/media/Piyush-Kumar-Singh-Resume.pdf": "/Piyush-Kumar-Singh/static/media/Piyush-Kumar-Singh-Resume.0208c09b209497409fe7.pdf",
     "static/media/Webimp.jpeg": "/Piyush-Kumar-Singh/static/media/Webimp.a9b7402664eb6c804499.jpeg",
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
     "main.c18f09a4.css.map": "/Piyush-Kumar-Singh/static/css/main.c18f09a4.css.map",
-    "main.8254d79a.js.map": "/Piyush-Kumar-Singh/static/js/main.8254d79a.js.map",
+    "main.ba052b21.js.map": "/Piyush-Kumar-Singh/static/js/main.ba052b21.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c18f09a4.css",
-    "static/js/main.8254d79a.js"
+    "static/js/main.ba052b21.js"
   ]
 }
