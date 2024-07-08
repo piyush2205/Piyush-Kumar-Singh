@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Piyush-Kumar-Singh/static/css/main.fe83fca4.css",
-    "main.js": "/Piyush-Kumar-Singh/static/js/main.e3f0c678.js",
+    "main.css": "/Piyush-Kumar-Singh/static/css/main.153d0200.css",
+    "main.js": "/Piyush-Kumar-Singh/static/js/main.b71e9000.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
     "static/media/fooddostmockup-2.png": "/Piyush-Kumar-Singh/static/media/fooddostmockup-2.7fd17da1e1de5815078d.png",
     "static/media/Fooddost-mockup1.png": "/Piyush-Kumar-Singh/static/media/Fooddost-mockup1.d33c25d44b3c561a2300.png",
@@ -11,12 +11,12 @@
     "static/media/Webimp.jpeg": "/Piyush-Kumar-Singh/static/media/Webimp.a9b7402664eb6c804499.jpeg",
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
-    "main.fe83fca4.css.map": "/Piyush-Kumar-Singh/static/css/main.fe83fca4.css.map",
-    "main.e3f0c678.js.map": "/Piyush-Kumar-Singh/static/js/main.e3f0c678.js.map",
+    "main.153d0200.css.map": "/Piyush-Kumar-Singh/static/css/main.153d0200.css.map",
+    "main.b71e9000.js.map": "/Piyush-Kumar-Singh/static/js/main.b71e9000.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe83fca4.css",
-    "static/js/main.e3f0c678.js"
+    "static/css/main.153d0200.css",
+    "static/js/main.b71e9000.js"
   ]
 }
