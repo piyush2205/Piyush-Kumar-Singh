@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Piyush-Kumar-Singh/static/css/main.ee2feb91.css",
-    "main.js": "/Piyush-Kumar-Singh/static/js/main.ba052b21.js",
+    "main.css": "/Piyush-Kumar-Singh/static/css/main.25b2325e.css",
+    "main.js": "/Piyush-Kumar-Singh/static/js/main.aea5cfde.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
     "static/media/fooddost-mockup-desktop.png": "/Piyush-Kumar-Singh/static/media/fooddost-mockup-desktop.65400b46aba634301ebc.png",
     "static/media/fooddostmockup-phone.png": "/Piyush-Kumar-Singh/static/media/fooddostmockup-phone.d55a8c42a4c901a6491d.png",
@@ -12,12 +12,12 @@
     "static/media/Webimp.jpeg": "/Piyush-Kumar-Singh/static/media/Webimp.a9b7402664eb6c804499.jpeg",
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
-    "main.ee2feb91.css.map": "/Piyush-Kumar-Singh/static/css/main.ee2feb91.css.map",
-    "main.ba052b21.js.map": "/Piyush-Kumar-Singh/static/js/main.ba052b21.js.map",
+    "main.25b2325e.css.map": "/Piyush-Kumar-Singh/static/css/main.25b2325e.css.map",
+    "main.aea5cfde.js.map": "/Piyush-Kumar-Singh/static/js/main.aea5cfde.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee2feb91.css",
-    "static/js/main.ba052b21.js"
+    "static/css/main.25b2325e.css",
+    "static/js/main.aea5cfde.js"
   ]
 }
