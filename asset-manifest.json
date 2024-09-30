@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/Piyush-Kumar-Singh/static/css/main.25b2325e.css",
-    "main.js": "/Piyush-Kumar-Singh/static/js/main.aea5cfde.js",
+    "main.css": "/Piyush-Kumar-Singh/static/css/main.dbab0aa4.css",
+    "main.js": "/Piyush-Kumar-Singh/static/js/main.0ad0372a.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
     "static/media/fooddost-mockup-desktop.png": "/Piyush-Kumar-Singh/static/media/fooddost-mockup-desktop.65400b46aba634301ebc.png",
     "static/media/fooddostmockup-phone.png": "/Piyush-Kumar-Singh/static/media/fooddostmockup-phone.d55a8c42a4c901a6491d.png",
     "static/media/SpaceGrotesk-Regular.ttf": "/Piyush-Kumar-Singh/static/media/SpaceGrotesk-Regular.3683ead52440efaeba4d.ttf",
     "static/media/Acumin-RPro.otf": "/Piyush-Kumar-Singh/static/media/Acumin-RPro.0ff8c5d6797bc06270d7.otf",
     "static/media/Degular-Light.otf": "/Piyush-Kumar-Singh/static/media/Degular-Light.ed3eb8622927d7abbc51.otf",
+    "static/media/Gilroy-ExtraBold.otf": "/Piyush-Kumar-Singh/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
     "static/media/Piyush-Kumar-Singh-Resume.pdf": "/Piyush-Kumar-Singh/static/media/Piyush-Kumar-Singh-Resume.0208c09b209497409fe7.pdf",
+    "static/media/logo.png": "/Piyush-Kumar-Singh/static/media/logo.bd1d72d2f3e4e7d74f87.png",
     "static/media/Webimp.jpeg": "/Piyush-Kumar-Singh/static/media/Webimp.a9b7402664eb6c804499.jpeg",
+    "static/media/OPTIVenus-BoldExtended.ttf.woff": "/Piyush-Kumar-Singh/static/media/OPTIVenus-BoldExtended.ttf.b7ad1a13e561c6532e06.woff",
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
-    "main.25b2325e.css.map": "/Piyush-Kumar-Singh/static/css/main.25b2325e.css.map",
-    "main.aea5cfde.js.map": "/Piyush-Kumar-Singh/static/js/main.aea5cfde.js.map",
+    "main.dbab0aa4.css.map": "/Piyush-Kumar-Singh/static/css/main.dbab0aa4.css.map",
+    "main.0ad0372a.js.map": "/Piyush-Kumar-Singh/static/js/main.0ad0372a.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25b2325e.css",
-    "static/js/main.aea5cfde.js"
+    "static/css/main.dbab0aa4.css",
+    "static/js/main.0ad0372a.js"
   ]
 }
