@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Piyush-Kumar-Singh/static/css/main.2e155686.css",
-    "main.js": "/Piyush-Kumar-Singh/static/js/main.f2d99017.js",
+    "main.js": "/Piyush-Kumar-Singh/static/js/main.45c02d14.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
+    "static/media/video.mp4": "/Piyush-Kumar-Singh/static/media/video.fccbfd71e7ba82dc140b.mp4",
     "static/media/background.png": "/Piyush-Kumar-Singh/static/media/background.a7d5c6cd42eaed11c9f6.png",
-    "static/media/video-1.mp4": "/Piyush-Kumar-Singh/static/media/video-1.9e41c04307b798ec13bf.mp4",
     "static/media/fooddost-mockup-desktop.png": "/Piyush-Kumar-Singh/static/media/fooddost-mockup-desktop.65400b46aba634301ebc.png",
     "static/media/background-3.png": "/Piyush-Kumar-Singh/static/media/background-3.999ee8c703d92af7d8ab.png",
     "static/media/fooddostmockup-phone.png": "/Piyush-Kumar-Singh/static/media/fooddostmockup-phone.d55a8c42a4c901a6491d.png",
@@ -22,11 +22,11 @@
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
     "main.2e155686.css.map": "/Piyush-Kumar-Singh/static/css/main.2e155686.css.map",
-    "main.f2d99017.js.map": "/Piyush-Kumar-Singh/static/js/main.f2d99017.js.map",
+    "main.45c02d14.js.map": "/Piyush-Kumar-Singh/static/js/main.45c02d14.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e155686.css",
-    "static/js/main.f2d99017.js"
+    "static/js/main.45c02d14.js"
   ]
 }
