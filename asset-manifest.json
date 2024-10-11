@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Piyush-Kumar-Singh/static/css/main.2e155686.css",
-    "main.js": "/Piyush-Kumar-Singh/static/js/main.45c02d14.js",
+    "main.css": "/Piyush-Kumar-Singh/static/css/main.dde095be.css",
+    "main.js": "/Piyush-Kumar-Singh/static/js/main.ab7f82ff.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
     "static/media/video.mp4": "/Piyush-Kumar-Singh/static/media/video.fccbfd71e7ba82dc140b.mp4",
     "static/media/background.png": "/Piyush-Kumar-Singh/static/media/background.a7d5c6cd42eaed11c9f6.png",
@@ -21,12 +21,12 @@
     "static/media/OPTIVenus-BoldExtended.ttf.woff": "/Piyush-Kumar-Singh/static/media/OPTIVenus-BoldExtended.ttf.b7ad1a13e561c6532e06.woff",
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
-    "main.2e155686.css.map": "/Piyush-Kumar-Singh/static/css/main.2e155686.css.map",
-    "main.45c02d14.js.map": "/Piyush-Kumar-Singh/static/js/main.45c02d14.js.map",
+    "main.dde095be.css.map": "/Piyush-Kumar-Singh/static/css/main.dde095be.css.map",
+    "main.ab7f82ff.js.map": "/Piyush-Kumar-Singh/static/js/main.ab7f82ff.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e155686.css",
-    "static/js/main.45c02d14.js"
+    "static/css/main.dde095be.css",
+    "static/js/main.ab7f82ff.js"
   ]
 }
