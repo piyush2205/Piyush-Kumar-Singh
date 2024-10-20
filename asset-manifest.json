@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Piyush-Kumar-Singh/static/css/main.915256d4.css",
+    "main.css": "/Piyush-Kumar-Singh/static/css/main.a06c9366.css",
     "main.js": "/Piyush-Kumar-Singh/static/js/main.d7316bf6.js",
     "static/js/787.5b604dc6.chunk.js": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js",
     "static/media/video.mp4": "/Piyush-Kumar-Singh/static/media/video.fccbfd71e7ba82dc140b.mp4",
@@ -21,12 +21,12 @@
     "static/media/OPTIVenus-BoldExtended.ttf.woff": "/Piyush-Kumar-Singh/static/media/OPTIVenus-BoldExtended.ttf.b7ad1a13e561c6532e06.woff",
     "index.html": "/Piyush-Kumar-Singh/index.html",
     "static/media/Vector.svg": "/Piyush-Kumar-Singh/static/media/Vector.60230d80f964c6f89a3a7c6637421890.svg",
-    "main.915256d4.css.map": "/Piyush-Kumar-Singh/static/css/main.915256d4.css.map",
+    "main.a06c9366.css.map": "/Piyush-Kumar-Singh/static/css/main.a06c9366.css.map",
     "main.d7316bf6.js.map": "/Piyush-Kumar-Singh/static/js/main.d7316bf6.js.map",
     "787.5b604dc6.chunk.js.map": "/Piyush-Kumar-Singh/static/js/787.5b604dc6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.915256d4.css",
+    "static/css/main.a06c9366.css",
     "static/js/main.d7316bf6.js"
   ]
 }
